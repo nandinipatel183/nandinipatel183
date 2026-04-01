@@ -39,18 +39,10 @@ I am a Full Stack Software Developer and M.Tech (IT) student at IIPS, DAVV, pass
 --
 ## 💻 Technical Skills
 
-- Languages: C++, Java, Python, JavaScript  
+- Languages: C++, Java, Python, JavaScript,Solidity 
 - Frameworks: Spring Boot, React.js, Express.js, Bootstrap  
-- Databases: MySQL, Oracle  
+- Databases: MySQL, Oracle ,PostgresSQL
 - Tools: Git, GitHub, VS Code  
-
----
-
-## 🛠️ Projects
-
-- 🐄 **AI-powered Cow Disease Prediction System**  
-- 🔍 **SahaYatri** – Lost & Found system using image matching  
-- 🎓 **DAVV Saarthi** – AI-based admission guidance platform  
 
 ---
 
