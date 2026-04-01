@@ -1,5 +1,21 @@
-# 💫 About Me:
-Hi, I'm Nandini Patel  <br><br>Full Stack Software Developer | M.Tech (IT), IIPS DAVV  <br><br>I am passionate about building impactful and scalable technology solutions, with a strong focus on Artificial Intelligence, backend development, and modern web applications.<br><br>Core Expertise:<br>- Artificial Intelligence & Machine Learning  <br>- Java & Spring Boot  <br>- Full Stack Web Development  <br><br>Current Focus:<br>- Developing AI-driven and scalable web applications  <br>- Strengthening Data Structures & Algorithms, System Design, and backend architecture  <br><br>Technical Skills:<br>- Languages: C++, Java, Python, JavaScript  <br>- Frameworks: Spring Boot, React.js, Express.js, Bootstrap  <br>- Databases: MySQL, Oracle  <br>- Tools: Git, GitHub, Visual Studio Code  <br><br>Strengths:<br>- Problem-solving and analytical thinking  <br>- Team collaboration and leadership  <br>- Effective communication and time management  <br><br>Contact:<br>- Email: nandinipatelnp18@gmail.com  <br><br>"Building intelligent systems that solve real-world problems"
+
+## 💫 About Me
+
+Hi, I'm Nandini Patel  
+
+Full Stack Software Developer and M.Tech (IT) student at IIPS, DAVV. I focus on building scalable and impactful solutions, with strong interests in Artificial Intelligence, Machine Learning, and backend development using Java and Spring Boot.
+
+### Core Skills
+- AI & Machine Learning  
+- Java & Spring Boot  
+- Full Stack Development  
+
+### Technical Stack
+C++, Java, Python, JavaScript | React.js, Spring Boot, Express.js | MySQL  
+
+📫 Email: nandinipatelnp18@gmail.com  
+
+"Building intelligent systems that solve real-world problems"
 
 
 ## 🌐 Socials:
