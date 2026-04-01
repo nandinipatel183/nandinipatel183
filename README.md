@@ -6,7 +6,7 @@
   <img src="https://github.com/nandinipatel183.png" width="150" style="border-radius:50%;" />
   
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Java+%26+Spring+Boot+Developer;M.Tech+IT+Student" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;M.Tech+IT+Student" />
   </h1>
   
   <h3 align="center">🎓 M.Tech (IT) | IIPS, DAVV | 🚀Full Stack Software Developer </h3>
