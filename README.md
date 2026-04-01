@@ -10,14 +10,13 @@ Hi, I'm Nandini Patel  <br><br>Full Stack Software Developer | M.Tech (IT), IIPS
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandinipatel7403&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=nandinipatel7403&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandinipatel183&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=nandinipatel183&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinipatel7403&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinipatel183&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=nandinipatel183&icon=0&color=0)](https://visitcount.itsvg.in)
 
